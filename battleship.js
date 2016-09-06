@@ -61,7 +61,5 @@ var gameBoard = [
 				]
 
 function fireTorpedo() {
-
-	// Your game logic will go here!
-
+	var userInput = $("#myInputBox").val();
 }
